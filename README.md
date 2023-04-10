@@ -1,9 +1,6 @@
 # Tetrahedron calculator
 Simple app that calculates numerous measures of a tetrahedron
 
-## Try it out for yourself
-App can be accessed [here](https://kg-tetrahedron-calculator.herokuapp.com) (it takes some time to load for the first time)
-
 ## Setup
 1. In order to run this project you'll need to install all of the dependencies.
 Do this using pip: `pip install -r requirements.txt`
