@@ -32,4 +32,10 @@ for each face of the tetrahedron:
 * Internal angles
 
 <br>Furthermore each figure is plotted in 3d.
+## Gallery
+
+<img width="623" alt="Screenshot 2023-04-10 at 21 24 20" src="https://user-images.githubusercontent.com/22123560/230980955-d305b4ac-3798-44c6-99e1-cceb8730cedc.png">
+<img width="623" alt="Screenshot 2023-04-10 at 21 24 29" src="https://user-images.githubusercontent.com/22123560/230981101-79b2d048-e6e5-40a3-a694-170cbe75f787.png">
+<img width="1020" alt="Screenshot 2023-04-10 at 21 26 10" src="https://user-images.githubusercontent.com/22123560/230981132-57d2dca7-32d8-43af-8c8e-b3fd5d9922f9.png">
+<img width="1020" alt="Screenshot 2023-04-10 at 21 25 55" src="https://user-images.githubusercontent.com/22123560/230981160-9b416c30-e93e-4f3c-828d-928112b47a12.png">
 
